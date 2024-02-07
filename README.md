@@ -1,7 +1,9 @@
 <h1>Hi, I'm Ibrahim!</h1>
 
 <h2>👨‍💻Cloud Security Projects:</h2>
+
 - [Creating a NAT Gateway in AWS](https://github.com/iomotosho/LABURL)
+
 <h2> Relevant Certifications:</h2>
 - CompTIA Security+
 - CompTIA CySA+
